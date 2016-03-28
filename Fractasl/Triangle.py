@@ -1,1 +1,0 @@
-# The Sierpinski Triangle
