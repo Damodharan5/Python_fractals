@@ -1,6 +1,6 @@
 #####See here for the Explanation
 
-![Midpoints explanation](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle_explain.png?raw=True) 
+![Midpoints explanation](https://raw.githubusercontent.com/Damodharan5/Python_fractals/master/Fractals_1/triangle_explain.png) 
 
 ######First calculate the three vertices of the triangle
 
