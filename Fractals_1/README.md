@@ -16,5 +16,4 @@ treee(x2,y2,(x2+x3)/2,(y2+y3)/2,(x1+x2)/2,(y1+y2)/2,len/2,min)
 treee(x3,y3,(x2+x3)/2,(y2+y3)/2,(x3+x1)/2,(y3+y1)/2,len/2,min)
 
 ```
-
-![The Sierpinski Triangle](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png?raw=True)
+![The Sierpinski Triangle](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png?raw=True"Screenshot for the fractals")
