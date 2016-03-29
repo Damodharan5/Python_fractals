@@ -9,8 +9,9 @@ It is a fractal and attractive fixed set with the overall shape of an equilatera
 Recursive three line coding
 ----------------------------
 
+
 ####Refer the image with coding
-![The Sierpinski Triangle](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png?raw=True)
+![Midpoints explanation](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle_explain.png?raw=True)
 
 ``` python
 
