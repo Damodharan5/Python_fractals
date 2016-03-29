@@ -4,6 +4,15 @@
 
 #####First calculate the three vertices of the triangle
 
-  + Centroid is always 0,0 as the fractals starts at hte origin.
+  + Centroid is always 0,0 as the fractals starts at the origin.
+
+
+ _To be continued..._
+ 
+ 
+ Important site
+ http://assemble.io/docs/Cheatsheet-Markdown.html
+ 
+ need to create different file for list of sites
 
 
