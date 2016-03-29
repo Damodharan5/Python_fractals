@@ -8,11 +8,5 @@
 
 
  _To be continued..._
- 
- 
- Important site
- http://assemble.io/docs/Cheatsheet-Markdown.html
- 
- need to create different file for list of sites
 
 
