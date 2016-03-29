@@ -8,11 +8,6 @@ It is a fractal and attractive fixed set with the overall shape of an equilatera
 
 Recursive three line coding
 ----------------------------
-
-
-####Refer the image with coding
-![Midpoints explanation](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle_explain.png?raw=True)
-
 ``` python
 
 treee(x1,y1,(x1+x2)/2,(y1+y2)/2,(x3+x1)/2,(y3+y1)/2,len/2,min)
