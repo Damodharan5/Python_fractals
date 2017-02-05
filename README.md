@@ -10,6 +10,6 @@ Fractals           |                Preview
 -------------------|---------------------------------------------------------------------------------------------
 Sierpinski Triangle| <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png") width=480>
                    |
-Plant_3            | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG") width=480>
+Plant_3            | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG") width=360>
                    |
-Gosper Curve       | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG") width=480>
+Gosper Curve       | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG") width=240>
