@@ -34,5 +34,3 @@ if __name__ == '__main__':
 		__Linit__()
 		Lparse(input())
 		fp.close()
-		
-	
