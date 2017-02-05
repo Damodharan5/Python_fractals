@@ -6,3 +6,6 @@ The Gosper curve, also known as Peano-Gosper Curve,[1] named after Bill Gosper, 
   +   B -> +A-BB--B-A++A+B
 
 where A and B means move forward and '+' and '-' means turn right and left respectively. The angle here is 60°. 
+
+#### Output
+![Gosper Curve](https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/Fractals_14.png?raw=True)
