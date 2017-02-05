@@ -6,7 +6,7 @@ Fractals are infinitely complex patterns that are self-similar across different 
   
 
 
-    Fractals       |                Preview
+Fractals           |                Preview
 -------------------|---------------------------------------------------------------------------------------------
 Sierpinski Triangle| <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png") width=480>
                    |
