@@ -13,6 +13,6 @@ L-system rule
 + ] - pop the stack
 
 ### Output
-![Plant 3](https://github.com/Damodharan5/Python_fractals/blob/master/Plants/Plant%203.png?raw=True)
+![](https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG?raw=True)
 
 
