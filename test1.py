@@ -1,17 +1,18 @@
 ##############################################################################################################################################
 #Creating a program which accepts the L-system rule and convert it into a .py file                                                           #
 #2/5/2017 - Creating a function which parse the L-rule                                                                                       #
-#So far accomplished the parsing of all except the '[' , ']' - stack operations for push and pop the current location                        #
+#So far accomplished the parsing of all except the '[' , ']' - stack operations for push and pop the current location - completed            #
+#Need few adjustments																														 #
 ##############################################################################################################################################
 import os
 fp = ""
 def __Linit__():
-	fp.write("import turtle\nwn=turtle.Screen()\nalex=turtle.Turtle()\n\n")#expecting more lines below
+	fp.write("import turtle\nwn=turtle.Screen()\nalex=turtle.Turtle()\n\nst = []\n\n")#expecting more lines below
 
 def __Lfinal__(arg1):
-	fp.write("\n\nif __name__=='__main__':\n\t"+arg1+"(int(input()),int(input()))\n\twn.exitonclick()")
+	fp.write("\n\nif __name__=='__main__':\n\talex.left(90)\n\t"+arg1+"(int(input()),int(input()))\n\twn.exitonclick()")
 
-def Lparse(a): # Input should be [variables 1],degree,[L-rule 1] ....[L-rule n]
+def Lparse(a): # Input should be [variables 1],degree,[L-rule 1];....[L-rule n],[Starting functions]
 	dic = {}
 	lis_sp = a.split(',')        # Spilt the input command.
 	overall_func = lis_sp[0].split(" ")
@@ -20,6 +21,8 @@ def Lparse(a): # Input should be [variables 1],degree,[L-rule 1] ....[L-rule n]
 		dic[i] = 'func_'+i+'(size,lvl-1)'
 	dic['-'] = 'alex.left('+lis_sp[1]+')'
 	dic['+'] = 'alex.right('+lis_sp[1]+')'	
+	dic['['] = 'st.append([alex.xcor(),alex.ycor(),alex.heading()])'
+	dic[']'] = 'alex.penup()\n\t\tm = st.pop()\n\t\ti,j = m[0],m[1]\n\t\talex.goto(i,j)\n\t\talex.seth(m[2])\n\t\talex.pendown()'
 	print(dic)
 	magic = lis_sp[2].split(';')   # Rules splitted
 	print(magic)
@@ -34,3 +37,5 @@ if __name__ == '__main__':
 		__Linit__()
 		Lparse(input())
 		fp.close()
+		
+	
