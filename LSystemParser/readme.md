@@ -3,14 +3,18 @@ An L-system or Lindenmayer system is a parallel rewriting system and a type of f
 leads to self-similarity and thereby, fractal-like forms are easy to describe with an L-system.
 
 ###Examples of L-systems:
-(A → ABA), (B → BBB) - Cantor Set<br/>
-(F → F+F−F−F+F) - Koch Curve
- 
+ + (A → ABA), (B → BBB) - Cantor Set
+ + (F → F+F−F−F+F) - Koch Curve
+
+###File List
+ + test1.py -- L system generator program
+ + generated_new_python_file -- Generated file by test1.py<br/>
+
 ###Usage
 Input should be [variables 1 2 ... n],degree,[L-rule 1;2;...;n]
 
 First variable become the starting function.
-For below below L-system, input for test1.py should be:- <br/>
+For below below L-system, input for [test1.py](./LSystemParser/test1.py) should be:- <br/>
 ``` Console
 D:/> test1.py
 generated_new_python_file                          -- New python file having the generated version of the L-system
