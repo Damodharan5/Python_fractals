@@ -6,10 +6,10 @@ Fractals are infinitely complex patterns that are self-similar across different 
   
 
 
-Fractals           |                Preview
--------------------|---------------------------------------------------------------------------------------------
-Sierpinski Triangle| ![](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png)
-                   |
-Plant_3            | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG)
-                   |
-Gosper Curve       | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG)
+|Fractals           |                Preview                                                                       |
+|-------------------|--------------------------------------------------------------------------------------------- |
+|Sierpinski Triangle| ![](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png)      |
+|                   |                                                                                              |
+|Plant_3            | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG)            |
+|                   |                                                                                              |
+|Gosper Curve       | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG)      |
