@@ -8,8 +8,8 @@ Fractals are infinitely complex patterns that are self-similar across different 
 
 Fractals           |                Preview
 -------------------|---------------------------------------------------------------------------------------------
-Sierpinski Triangle| <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png") width=480>
+Sierpinski Triangle| ![](https://github.com/Damodharan5/Python_fractals/blob/master/Fractals_1/triangle.png)
                    |
-Plant_3            | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG") width=360>
+Plant_3            | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Plants/plant3.PNG)
                    |
-Gosper Curve       | <img src ="https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG") width=240>
+Gosper Curve       | ![](https://github.com/Damodharan5/Python_fractals/blob/master/Gosper_curve/gosper.PNG)
